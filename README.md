@@ -18,3 +18,7 @@ It used the microphone to detect the bubbles and sends the count to HA via MQTT 
 If you have issues, record a test audio file to make sure that the android permissions are allowing termux to record.
 Then check the audio file to make sure it has bubbles in it.
 You can get the command from within the Python script.
+
+There is also a version for any device running Armbian with a USB to audio adapter and a connected mic or cheap headphones if you want something more reliable than an android device.
+
+<img width="516" height="280" alt="image" src="https://github.com/user-attachments/assets/26f9a388-b433-40b8-bc08-f077cbb7b91c" />
